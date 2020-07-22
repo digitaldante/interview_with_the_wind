@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Interview with the Wind - Alice Oswald" ] },
+    "summary": { "en": [ "Alice Oswald reads her poem, Interview with the Wind" ] },
+    "items": [
+    ]
+}
